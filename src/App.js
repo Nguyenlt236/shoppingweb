@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from "./component/Header"
 import Banner from "./component/Banner"
 import CategoriesBar from "./component/Categories bar"
-import NewArrivals from "./component/New Arrivals"
+import NewArrivals from "./component/New Arrivals block/index.jsx"
 import Deals from "./component/Deals"
 import Shipping from "./component/Shipping"
 import Footer from "./component/Footer"
